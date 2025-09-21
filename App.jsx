@@ -1,5 +1,5 @@
 
-import StudyPlanner from "./StudyPlanner";
+import StudyPlanner from "./StudyPlanner.jsx";
 
 export default function App() {
   return (
